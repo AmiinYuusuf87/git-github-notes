@@ -1,0 +1,11 @@
+# Environment / secret files
+.env
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+
+# Editor settings
+.vscode/
